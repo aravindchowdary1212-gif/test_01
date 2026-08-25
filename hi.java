@@ -1,5 +1,5 @@
 public class hi{
     public static void main(String[] args) {
-        System.out.println("elcome to oder service v2");
+        System.out.println("Welcome to order service v2");
     }
 }
